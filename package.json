@@ -1,0 +1,19 @@
+{
+  "name": "selenium-testing-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "selenium-webdriver": "^4.9.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
